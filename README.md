@@ -1,1 +1,1 @@
-https://github.com/RUCHIKA-PALIWAL/pizza-web.git
+https://ruchika-paliwal.github.io/pizza-web/
